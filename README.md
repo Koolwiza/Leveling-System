@@ -6,7 +6,7 @@ This is a work in progress leveling system. Made in discord.js v12.4.1 and canva
 - [x] ```npm i ```
 - [x] **Fill out the stuff in config.json**
 
-# ⬆️ Discord Captcha Bot
+# ⬆️ Leveling-System
 A leveling systme discord bot with commands such as rank and leaderboard
 
 # ⌨️ Commands
