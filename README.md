@@ -7,7 +7,7 @@ This is a work in progress leveling system. Made in discord.js v12.4.1 and canva
 - [x] **Fill out the stuff in config.json**
 
 # ⬆️ Leveling-System
-A leveling systme discord bot with commands such as rank and leaderboard
+A leveling system discord bot with commands such as rank and leaderboard
 
 # ⌨️ Commands
 | Commands  | Description |
